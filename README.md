@@ -3,8 +3,14 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://amechi.io)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://amechi.io)
+  - [Configuring Virtual Machines and Remote Access (Remote Desktop and Secure Shell)](https://github.com/amechi-io/azure-vm-remote)
+  - [Network Security Groups (NSGs) and Inspecting Packets](https://github.com/amechi-io/azure-nsg-packets)
+
+
+- <b>Microsoft Active Directory</b>
+  - [Deploying Active Directory within Azure VMs and Creating Users](https://github.com/amechi-io/mas-ad-deploy)
+  - [Configuring DNS](https://github.com/amechi-io/mas-dns-config)
+  - [Network File Sharing and Permissions](https://github.com/amechi-io/mas-file-share-permissions)
 
 <h2>Connect with me:</h2>
 
