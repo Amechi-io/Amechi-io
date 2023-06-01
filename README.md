@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
 
-- [Setting Up and Managing Active Directory in Azure](https://amechi.io)
+- [Setting Up and Managing Active Directory in Azure](https://amechi.io/setting-up-and-managing-active-directory-in-azure)
 - [Introduction to Capturing Network Traffic with Wireshark in Microsoft Azure](https://amechi.io)
 - [Exploring DNS Records and Cache: A-Records, CNAME Records, and Local DNS Cache Management](https://amechi.io)
 - [Managing Network File Shares and Permissions in Microsoft Azure](https://amechi.io)
